@@ -2,7 +2,7 @@
 This repository contains all details about  the "Iris flowers",  you could find  
 https://marcella.shinyapps.io/myShinyApp-DDPW4_2/
 
-NOTE: "myShinyApp-DDPW4_2.Rpres is a presentation pitching the application
+You can find <a href= "http://rpubs.com/marcellalai/517531"> here </a> presentation pitching the application  
 
 The data used is "iris" data set (standard R packages)
 It contains  features measured for 3 Iris  species, setosa, virginica, versicolor.
